@@ -38,17 +38,17 @@ table {
 @media(max-width: 400px){
     h1{
         text-align: center;
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .title{
         text-align: center;
-        font-size: 14px;
+        font-size: 10px;
         color: black;
     }
 
     .cyuui{
         text-align: center;
-        font-size: 14px;
+        font-size: 10px;
     }
 }
